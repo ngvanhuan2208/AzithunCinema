@@ -1,0 +1,6 @@
+pnpm-lock.yaml
+design.md
+node_modules
+.next
+client/public/mockServiceWorker.js
+test-results
